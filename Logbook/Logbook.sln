@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logbook", "Logbook\Logbook.csproj", "{EEDCA2EA-225C-4F57-8BC6-82ACFC37823B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEDCA2EA-225C-4F57-8BC6-82ACFC37823B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDCA2EA-225C-4F57-8BC6-82ACFC37823B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDCA2EA-225C-4F57-8BC6-82ACFC37823B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDCA2EA-225C-4F57-8BC6-82ACFC37823B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAA62846-AEBE-4854-97D2-C9254F5E8C28}
+	EndGlobalSection
+EndGlobal
